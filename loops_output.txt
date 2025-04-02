@@ -1,0 +1,63 @@
+>> loops
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+     6
+
+     7
+
+     8
+
+     9
+
+    10
+
+     1
+
+     3
+
+     5
+
+     7
+
+     9
+
+    11
+
+    13
+
+    15
+
+Summation: 55
+Factorial: 120
+The number is10
+The number is: 10
+The number is: 10The number is:10
+Enter the number 01: 23
+The number is: 23
+Enter your name: nuwani
+Your name is nuwani
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+     6
+
+     7
+
+     8
+
+     9
