@@ -1,0 +1,34 @@
+>> funct
+applebanana
+helloworldsri
+hello:world:sri
+
+ans =
+
+  logical
+
+   0
+
+
+ans =
+
+    'The dog sat on the mat'
+
+
+ans =
+
+    'apple'
+
+
+ans =
+
+    'APPLE'
+
+Enter the marks: 85
+A
+Enter number 01: 54
+Enter number 02: 84
+Enter number 03: 75
+Large number: 84
+Enter the charcter: g
+Consonant letter
